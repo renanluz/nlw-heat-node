@@ -1,5 +1,5 @@
 <h1 align="center">NLW Heat - Node.js</h1>
-<h2>Projeto desenvolvido durante a NLW Heat</h2>
+<h3 align="center">Projeto desenvolvido durante a NLW Heat</h3>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
